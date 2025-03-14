@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.openlearn</groupId>
-    <artifactId>snippets</artifactId>
+    <artifactId>concurrency-snippets</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
